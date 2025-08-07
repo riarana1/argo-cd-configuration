@@ -17,7 +17,7 @@ spec:
           - chart: postgresql
             name: postgresql
             repo: https://charts.bitnami.com/bitnami
-            revision: 12.12.10
+            revision: 15.5.38
             namespace: default
             postInstall: true
           - chart: cert-manager
